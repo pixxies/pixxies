@@ -2,7 +2,7 @@
 <h3 align="left">I develop web applications and Discord bots!</h3>
 
 - I’m currently working on <a href="https://pixx.ie" target="blank">**PixxieBot**</a>.
-- I review bots and offer support in my spare time for <a href="https://top.gg" target="blank">**Top.gg**</a>.
+- I'm a Community Manager at <a href="https://top.gg" target="blank">**Top.gg**</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
