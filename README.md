@@ -1,7 +1,7 @@
 <h1 align="left">Mac (xtojump)</h1>
 <h3 align="left">I develop web applications and Discord bots!</h3>
 
-- I'm a Product Designer at <a href="https://medal.tv" target="blank">**Medal.tv**</a>
+- I'm a Senior Product Designer at <a href="https://medal.tv" target="blank">**Medal.tv**</a>
 - I’m currently working on <a href="https://pixx.ie" target="blank">**PixxieBot**</a>
 - Former CM and Advisor at <a href="https://top.gg" target="blank">**Top.gg**</a>
 
