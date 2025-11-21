@@ -3,7 +3,7 @@
 
 - I'm a Senior Product Designer at <a href="https://medal.tv" target="blank">**Medal.tv**</a>
 - I’m currently working on <a href="https://pixx.ie" target="blank">**PixxieBot**</a>
-- Former CM and Advisor at <a href="https://top.gg" target="blank">**Top.gg**</a>
+- Former <a href="https://top.gg" target="blank">**Top.gg**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
